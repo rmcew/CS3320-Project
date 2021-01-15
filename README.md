@@ -4,8 +4,6 @@ Put project description here
 
 ### Prerequisites
 
-
-
 ## Running the program
 
 Put "how to use" information here
